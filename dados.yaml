@@ -1,0 +1,9 @@
+nome: SEU-NOME
+email: SEU-EMAIL
+matricula: SUA-MATRICULA-FGV
+intro: >-
+
+  neste espaço vc poderá escrever sobre você. Use um editor de texto
+  que entenda YAML https://yaml.org como o Emacs
+  (https://github.com/yoshiki/yaml-mode) e/ou o VS Code
+  (https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml).

@@ -1,0 +1,26 @@
+#+title: assignment 00
+
+O objetivo desta tarefa é:
+
+1. inscrever você na organização 'emap-nlp-2022'
+
+   Ao ter clicado no assignment e clonado o projeto template
+   'assignment-00' já deverá estar inscrito na organização.
+
+2. confirmar se você conhece o básico sobre o uso do github.
+
+   depois de criar seu repositório, clone o repositório para seu
+   computador (git command line ou git Desktop). Modifique o arquivo
+   dados.yaml. Faça o 'commit' no repositório, atualizando apenas o
+   'dados.yaml' e faça 'push' para seu repositório no Github
+   (emap-nlp-2022/assignment-00-username).
+
+3. atualizar as contas no GitHub
+
+   atualize seus dados no github: nome completo, foto, email para
+   receber notificações.
+
+   
+
+
+   
